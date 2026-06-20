@@ -66,15 +66,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🏖️ Horizon Tourism</h3>
+      <h3>📱 Horizon Tourism App</h3>
       <br />
-      <p>A fully responsive, beautifully designed tourism platform tailored for modern travelers.</p>
+      <p>A beautifully designed, cross-platform mobile application tailored for modern travelers to explore destinations.</p>
       <br />
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,tailwind&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,js,android,ios&theme=dark" />
       </a>
       <br /><br />
-      <a href="https://horizon-tourism.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://horizon-tourism.vercel.app" target="_blank"><img src="https://img.shields.io/badge/App%20Demo-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="App Demo" /></a>
       <a href="https://github.com/nadunudayanga76/Horizon_Tourism" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
     </td>
     <td width="50%" valign="top" align="center">
